@@ -19,4 +19,9 @@
 
 10. linear time O(n), it iterates through a loop and the time increases as the number increases, it checks if a number is prime.
 
-11. 
+11. When using 5 disks, after seven recursive calls the disks look like this:
+                                           -
+       ----                               --
+      -----              |               ---
+
+   
