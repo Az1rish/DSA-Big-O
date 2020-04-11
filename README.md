@@ -21,7 +21,9 @@
 
 11. When using 5 disks, after seven recursive calls the disks look like this:
       |                   |                  x |
+
       | xxxx              |                 xx |
+      
       |xxxxx              |                xxx |
 
    
